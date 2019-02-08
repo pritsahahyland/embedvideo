@@ -7710,3 +7710,6 @@ h2{
   animation: progress-bar-stripes 2s linear infinite;
   background-size: 6px 8px !important;
 }
+.glyphicon-picture black {
+    font-size: 20px;
+ }
