@@ -7710,3 +7710,15 @@ h2{
   animation: progress-bar-stripes 2s linear infinite;
   background-size: 6px 8px !important;
 }
+
+
+h2 span:nth-child(2){
+    color: #ff676d;
+    font-weight: 600;
+    font-size: 2rem;
+    margin-left: 15px;
+}
+
+.pull-right {
+    float: right !important;
+}
